@@ -1,0 +1,13 @@
+llama-index==0.10.51
+pypdf>=4.0.1,<5.0.0
+sentence-transformers==2.2.2
+typing_extensions
+nest_asyncio==1.5.8
+ragas
+pyarrow==14.0.1
+torch==2.3.0
+requests==2.31.0
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+llama-index-core
+python-dotenv
