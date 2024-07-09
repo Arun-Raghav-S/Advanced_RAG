@@ -11,3 +11,15 @@ llama-index-llms-azure-openai
 llama-index-embeddings-azure-openai
 llama-index-core
 python-dotenv
+rouge
+bert-score
+matplotlib
+seaborn
+pdfplumber
+pytesseract
+# unstructured-client
+unstructured[all-docs]
+chromadb
+transformers
+pillow
+llm-lens
