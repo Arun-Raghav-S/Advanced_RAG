@@ -23,3 +23,8 @@ chromadb
 transformers
 pillow
 llm-lens
+transformers==4.39.2
+accelerate
+einops
+poppler-utils
+tesseract
