@@ -28,3 +28,4 @@ accelerate
 einops
 poppler-utils
 tesseract
+llama-index-vector-stores-chroma
